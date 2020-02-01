@@ -5,7 +5,7 @@ My first repository on GitHub for CodePath
 Hello introductory app
 
 ### App Description
-`TODO://` this app simulates the home screen of an Iphone 11 that allows you to change the background of the Iphone and the color or the text "Hello from Emmandra!"
+`TODO://` this app simulates the home screen of an Iphone 11 that allows you to change the background of the Iphone, the color or the text, costumize the text, and return to its default settings.
 
 ### App Walk-though
 `TODO://` 
